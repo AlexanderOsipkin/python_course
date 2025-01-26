@@ -12,3 +12,12 @@ print(name.capitalize())
 print(name.upper())
 # Возвращает в ответе имя заглавными буквами
 print(dir(name))
+
+
+def my_name():
+    print(name)
+    my_name('Alex')
+
+
+my_name('Alex')
+
