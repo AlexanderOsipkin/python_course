@@ -1,4 +1,7 @@
-long_str = "this is a very long string"
+long_str = """this is a 
+very long 
+        stri
+ng"""
 
 print(long_str)
 
